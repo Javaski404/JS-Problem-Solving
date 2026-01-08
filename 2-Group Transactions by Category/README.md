@@ -22,8 +22,7 @@ const transactions = [
   { id: 5, category: "transport", amount: 40 }
 ];
 
-
-## 🧾 Input
+## 🧾 Output
 
 {
   food: 80,
